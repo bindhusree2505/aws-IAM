@@ -1,5 +1,5 @@
 # AWS IAM – Roles
-
+ 
 ## Introduction
 
 An IAM Role is an identity that provides **temporary permissions** to trusted entities such as AWS services, applications, users, or another AWS account.
