@@ -1,4 +1,4 @@
-# AWS IAM – Users, Groups and Policies
+# AWS IAM – Users, Groups and Policies 
 
 ## Introduction
 
