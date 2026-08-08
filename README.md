@@ -30,8 +30,8 @@ AWS-IAM/
 ├── 03-iam-roles.md
 ├── 04-policy-evaluation-and-least-privilege.md
 ├── 05-mfa-and-iam-security.md
-├── 06-iam-cli.md
-└── 07-iam-devops-use-cases.md
+├── 06-iam-access-analyzer.md
+
 ```
 
 ---
